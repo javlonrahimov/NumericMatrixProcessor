@@ -1,0 +1,21 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def fib(n):
+
+        if ...:  # base case for month 0
+            return  # the rabbits are not on a farm yet!
+        elif ...:  # base case for month 1
+            return  # a pair of baby rabbit has just arrived!
+        else:
+            return  # recursive calls
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7672
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7672">JetBrains
+    Academy</a></html>
+  time: Mon, 03 Aug 2020 17:15:12 UTC
+record: -1
